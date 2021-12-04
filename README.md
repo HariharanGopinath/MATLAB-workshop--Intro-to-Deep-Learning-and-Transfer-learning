@@ -1,2 +1,3 @@
 # MATLAB-workshop--Intro-to-Deep-Learning-and-Transfer-learning
 This repository contains the files for the workshop "Intro to Deep Learning and Transfer learning" which is conducted at the Chalmers University of Technology by me. This workshop involves understanding the basics of deep learning, data collection and data preprocessing for the ML model and using the transfer learning technique in the pre-trained model, developing a object detector model using the webcam in the computers
+![poster_main DML image](https://user-images.githubusercontent.com/71879067/144714955-0c5b3fe5-ed62-4859-bd95-f043e98dec03.jpg)
